@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align= "center">Hi there, My name is Juan Miguel Rojas  ✨👋</h1>
 </div>
-<img src="https://imgur.com/pgTq01N">
+<img src="https://i.imgur.com/pgTq01N.png">
 
 
 <!--
