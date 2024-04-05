@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align= "center">Hi there, My name is Juan Miguel Rojas  ✨👋</h1>
 </div>
-<img src="https://www.canva.com/design/DAF-Au3rBjQ/i_60ZDbZbQ8f42DEhRlyLw/view?utm_content=DAF-Au3rBjQ&utm_campaign=designshare&utm_medium=link&utm_source=editor">
+<img src="https://www.canva.com/design/DAF-Au3rBjQ/0FKigo5zwTkBscSA8XVvbQ/view">
 
 
 <!--
