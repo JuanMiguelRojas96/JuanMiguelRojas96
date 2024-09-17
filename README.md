@@ -19,7 +19,8 @@
   <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="50" height="50" />
   <img src="https://niixer.com/wp-content/uploads/2020/11/spring-boot.png" alt="Spring" width="100" height="50" /> 
   <img src="https://static-00.iconduck.com/assets.00/angular-icon-1931x2048-bef1f3lm.png" alt="Angular" width="50" height="50" />
-  <img src="https://w7.pngwing.com/pngs/79/518/png-transparent-js-react-js-logo-react-react-native-logos-icon-thumbnail.png" alt="Angular" width="50" height="50" />
+  <img src="https://static-00.iconduck.com/assets.00/react-original-wordmark-icon-840x1024-vhmauxp6.png" alt="React" width="50" height="50" />
+  <img src="https://cdnlogo.com/logos/r/18/react-native.svg" alt="ReactNative" width="50" height="50" />
   <img src="https://static-00.iconduck.com/assets.00/typescript-plain-icon-256x256-ypojgpyj.png" alt="Typescript" width="50" height="50" />
   <img src="https://cdn.alvarofontela.com/wp-content/uploads/optimizarjscss4.png" alt="JavaScript" width="50" height="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" alt="CSS" width="50" height="50" />
